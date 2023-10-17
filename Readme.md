@@ -1,3 +1,3 @@
 link to github file{
-https://shivampathakwebdev.github.io/TheCookbook.github.io/
+https://shivampathakwebdev.github.io/The-Cookbook.github.io/
 }
